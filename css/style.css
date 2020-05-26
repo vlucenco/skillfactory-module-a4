@@ -421,6 +421,7 @@ h2 {
     max-height: 252px;
     resize: none;
     outline: none;
+    padding-top: 50px;
 }
 
 .contact-wrapper button[type='submit'] {
