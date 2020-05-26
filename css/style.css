@@ -501,6 +501,26 @@ footer {
     }
 }
 
+@media screen and (max-width: 1150px) {
+    .contact-main-row {
+        flex-wrap: wrap;
+    }
+
+    .contact-header {
+        margin: 0 auto;
+    }
+
+    .contact-form-wrapper form {
+        justify-content: center;
+        margin-bottom: 40px;
+    }
+
+    .contact-info-card {
+        width: 100%;
+        max-width: 100%;
+    }
+}
+
 @media screen and (max-width: 815px) {
     .intro-content {
         flex-wrap: wrap;
